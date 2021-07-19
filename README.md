@@ -1,2 +1,2 @@
 # BlogApp
-BlogApp using nodejs and API
+BlogApp using nodejs, API, mongoose
